@@ -1,0 +1,21 @@
+{
+
+  "firstName": "Test",
+
+  "lastName": "Bot",
+
+  "date": {
+    "year": "2002",
+    "month": "8",
+    "day": "2"
+  },
+
+  "gender": "Male",
+
+  "postal_code": "3000",
+
+  "email": "kevinnanashe@gmail.com",
+
+  "password": "Password@123"
+
+}
